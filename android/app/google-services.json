@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "795956374218",
+    "firebase_url": "https://edubox-20362.firebaseio.com",
+    "project_id": "edubox-20362",
+    "storage_bucket": "edubox-20362.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795956374218:android:e73e6de2d76a50e9366233",
+        "android_client_info": {
+          "package_name": "com.example.edubox_pkl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795956374218-4vs8kmv9a4nejaht8kasa0ia5tgcpc0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeKMf7ieJUcZFQcOCOeFOhsVL4O5xA7_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795956374218-4vs8kmv9a4nejaht8kasa0ia5tgcpc0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
