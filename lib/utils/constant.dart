@@ -14,3 +14,7 @@ const kDefaultShadow = BoxShadow(
   blurRadius: 27,
   color: Colors.black12,
 );
+
+class Constant {
+  static const String baseUrl = "http://olshop.dipointer.com";
+}
